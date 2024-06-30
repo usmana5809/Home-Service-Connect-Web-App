@@ -1,0 +1,41 @@
+.navbar-nav {
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px; /* Adjust the margin between each navlink */
+}
+.navbar-nav .nav-link{
+  cursor: pointer;
+}
+/* Apply styles to the Link component */
+.navbar-nav .nav-link,
+.navbar-nav .nav-link:hover {
+  color: #ffff; /* Set text color to white */
+  cursor: pointer !important; /* Change cursor to a pointer */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+  text-decoration: none; /* Remove underlining */
+}
+.navbar-nav .navlink {
+  color: #ffff; /* Set text color to white */
+  margin-right: 15px; /* Adjust the margin between the logo and other navlinks */
+  text-decoration: none; /* Remove underlining */
+}
+.navbar-nav .navlink:hover {
+  color: gray; /* Set your desired hover color */
+  cursor: pointer;
+}
+
+/* Zoom out and change color on hover for navigation links */
+.navbar-nav .nav-item .nav-link {
+  transition: transform 0.12s ease, color 0.5s ease;
+  border: none; /* Remove default border */
+  outline: none; /* Remove outline on focus */
+  color: #ffffff; /* Set default color */
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  transform: scale(1.8); /* Zoom out effect */
+  color: #ffffff; /* Change color on hover */
+}
+

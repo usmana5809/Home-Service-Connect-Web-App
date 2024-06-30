@@ -1,0 +1,46 @@
+#services {
+    color:#D0D0D0; 
+  background-image: url('/public/images/4.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+.transition:hover {
+    transition: 0.8s;
+}
+.p_10 {
+    border: 2px solid transparent;
+    padding: 29px 16px;
+    color: white;
+    transition: transform 0.3s ease,
+    background-color 0.3s ease;
+}
+.p_10:hover {
+    border: 2px solid #000000;
+    border-radius: 30px;
+    color: #000000;
+    transform: scale(1.1);
+    background-color: #ffffffd2; 
+}
+.p_11 {
+    border: 2px solid transparent;
+    padding: 29px 16px;
+    color: black;
+    transition: transform 0.3s ease,
+    background-color 0.3s ease;
+}
+.p_11:hover {
+    border: 2px solid #000000;
+    border-radius: 30px;
+    color: #000000;
+    transform: scale(1.1);
+    background-color: #cbcbcbdd; 
+}
+.Link {
+  text-decoration: none;
+  color: black;
+}
+.services-background {
+    background-image: url('/public/images/4.jpg');
+    background-size: cover;
+    background-position: center;
+}

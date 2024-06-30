@@ -1,0 +1,31 @@
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+.footer-section ul li{
+  margin-bottom: 8px;
+}
+
+.footer-section ul li a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.divider {
+    text-align: center;
+  }
+.footer-background {
+    background-image: url('/public/images/6.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+}
+.text-white :hover {
+    transform: scale(1.10);
+    text-decoration: underline;
+}
+
+.text-white {
+  transition: transform 1s ease, 
+  text-decoration 1s ease; 
+}
