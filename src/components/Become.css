@@ -1,0 +1,11 @@
+#become
+ {
+    color:black; 
+    background-color: white;
+  }
+.container_req{
+    background-image: url('/public/images/4.jpg');
+    background-size: cover;
+    background-position: center;
+    color:#ffffff;
+  }

@@ -1,0 +1,11 @@
+
+/* Main.css */
+.main-container {
+  color: 	white; 
+  padding: 20px; 
+}
+.main-background {
+  background-image: url('/public/images/1.png');
+  background-size: cover;
+  background-position: center;
+}
