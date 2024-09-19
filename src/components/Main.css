@@ -9,25 +9,53 @@
   background-size: cover;
   background-position: center;
 }
-/* About.css or main CSS file */
-.img-responsive {
+/* Main.css or specific CSS file */
+
+/* Container for centering image */
+.image-container {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically if needed */
   width: 100%;
+  overflow: hidden; /* Prevent overflow */
+}
+
+/* Responsive image */
+.img-responsive {
+  width: 100%; /* Make the image take full width of the container */
   height: auto; /* Maintain aspect ratio */
-  max-width: 100%; /* Prevents overflow */
+  max-width: 100%; /* Ensure the image does not exceed container width */
+  max-height: 100%; /* Ensure the image does not exceed container height */
+  object-fit: cover; /* Cover the container while maintaining aspect ratio */
+  display: block; /* Remove bottom space */
 }
 
+/* Optional: Additional styles for rounded corners */
 .rounded {
-  border-radius: 0.5rem; /* Adjust rounded corners as needed */
+  border-radius: 0.5rem; /* Adjust the rounded corners as needed */
 }
 
+/* Media query for large screens */
+@media (min-width: 992px) {
+  .image-container {
+    padding: 0;
+  }
+
+  .img-responsive {
+    max-width: 100%; /* Ensure the image is as large as possible */
+    max-height: 500px; /* Adjust this value as needed for large screens */
+  }
+}
+
+/* Media query for smaller screens */
 @media (max-width: 425px) {
-  .col-md-6 {
-    padding-left: 0;
-    padding-right: 0;
+  .image-container {
+    padding: 0;
     text-align: center; /* Ensure image is centered */
   }
 
   .img-responsive {
     margin: 0; /* Remove any margin */
+    max-height: 300px; /* Adjust height for smaller screens */
   }
 }
