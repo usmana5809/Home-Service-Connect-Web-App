@@ -9,3 +9,25 @@
   background-size: cover;
   background-position: center;
 }
+/* About.css or main CSS file */
+.img-responsive {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  max-width: 100%; /* Prevents overflow */
+}
+
+.rounded {
+  border-radius: 0.5rem; /* Adjust rounded corners as needed */
+}
+
+@media (max-width: 425px) {
+  .col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center; /* Ensure image is centered */
+  }
+
+  .img-responsive {
+    margin: 0; /* Remove any margin */
+  }
+}

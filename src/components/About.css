@@ -1,3 +1,31 @@
 #about {
     background-color: #ffffff
   }
+  #about {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .about-container .container {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  @media (max-width: 767px) {
+    .about-container .container {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    
+    .about-container img {
+      width: 100%;
+      height: auto;
+    }
+    
+    .about-container p {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+  

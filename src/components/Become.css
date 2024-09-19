@@ -9,3 +9,8 @@
     background-position: center;
     color:#ffffff;
   }
+  html,
+body{
+  width: 100%;
+  overflow-x: hidden;
+}

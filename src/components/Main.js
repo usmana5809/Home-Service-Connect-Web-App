@@ -17,8 +17,9 @@ function Main() {
               <button type="button" className="btn btn-dark">Chat with us on Whatsapp</button><br/><br/>
             </div>
             <div className="col-md-6 text-center">
-              <img className='rounded' src="/images/main.png" alt="Main" height="350" data-aos="fade-up" data-aos-duration="2000"/>
+              <img className="img-responsive rounded" src="/images/main.png" alt="Main" data-aos="fade-up" data-aos-duration="2000" />
             </div>
+
           </div>
         </div>
       </section>
