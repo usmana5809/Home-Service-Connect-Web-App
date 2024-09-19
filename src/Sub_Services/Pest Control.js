@@ -20,21 +20,21 @@ function PestControl() {
 		<div className="row">
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/insecticide.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/insecticide.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>General Pest Control</b></div>
 					<div className="maintenance text-center">Regular inspections and treatments for common pests like ants,spiders.</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/rat.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/rat.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Rodent Control</b></div>
 					<div className="maintenance text-center">A smarter way to identification and elimination of mice and rats</div>
 					</div>
 				</div>
 				<div className="col-lg-4  col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/mosquito.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/mosquito.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Mosquito Control</b></div>
 					<div className="maintenance text-center">AuraUserve helps Larvicide treatments for standing water.</div>
 					</div>
@@ -44,21 +44,21 @@ function PestControl() {
 			<div className="row">
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/bed-bug.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/bed-bug.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Bed Bug Extermination</b></div>
 					<div className="maintenance text-center">AuraUserve provides inspection and identification of bed bug infestations.</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/snail.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/snail.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Wildlife Control</b></div>
 					<div className="maintenance text-center">Humane removal of wildlife such as raccoons, squirrels, and birds.</div>
 					</div>
 				</div>
 				<div className="col-lg-4  col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/bee.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/bee.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Bee and Wasp Removal</b></div>
 					<div className="maintenance text-center">AuraUserve helps Safe removal of beehives and wasp nests.</div>
 					</div>

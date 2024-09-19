@@ -20,21 +20,21 @@ function Gardening() {
 		<div className="row">
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/flowers.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/flowers.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Garden Installation and Planting</b></div>
 					<div className="maintenance text-center">Implementing landscape designs by installing plants, trees, shrubs, and other greenery.</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/gardening.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/gardening.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Garden Maintenance Services</b></div>
 					<div className="maintenance text-center">Regular upkeep of gardens, including weeding, pruning, and fertilizing.</div>
 					</div>
 				</div>
 				<div className="col-lg-4  col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/mosquito.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/mosquito.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Mosquito Control</b></div>
 					<div className="maintenance text-center">AuraUserve helps Larvicide treatments for standing water.</div>
 					</div>
@@ -44,21 +44,21 @@ function Gardening() {
 			<div className="row">
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/street-light.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/street-light.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Garden Lighting Installation</b></div>
 					<div className="maintenance text-center">Installing outdoor lighting for gardens and landscapes.</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/snail.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/snail.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Wildlife Control</b></div>
 					<div className="maintenance text-center">Humane removal of wildlife such as raccoons, squirrels, and birds.</div>
 					</div>
 				</div>
 				<div className="col-lg-4  col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 text-center ">
-					<img src="/images/palm-tree.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='beautsalon'/>
+					<img src="/images/palm-tree.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='beautsalon'/>
 					<div className="repair text-center"><b>Tree Care and Arboriculture</b></div>
 					<div className="maintenance text-center">Pruning, trimming, and shaping trees for optimal growth.</div>
 					</div>
