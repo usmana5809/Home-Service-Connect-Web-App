@@ -16,18 +16,13 @@ In the project directory, you can run:
 cd Home-Service-Connect-Web-App
 ```
 
-3. Create a virtual environment:
-```markdown
-python -m venv venv
-```
-
-4. Activate the virtual environment:
+3. Activate the virtual environment:
   - On Windows:
 ```markdown
 npm install
 ```
 
-5. Install the required packages:
+4. Install the required packages:
 ```markdown
 npm start
 ```
