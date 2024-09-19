@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Home Service Connect Web App
 ![Cover Image](./public/images/uiii.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
