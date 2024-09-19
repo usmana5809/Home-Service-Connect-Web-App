@@ -43,21 +43,21 @@ function Become() {
 			<div className="row">
 			<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 transition text-center">
-					<img src="/images/age.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='Age'/>
+					<img src="/images/age.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='Age'/>
 					<div className="repair text-center"><b>Age</b></div>
 					<div className="maintenance text-center">You have to be over 18 years of age with a valid CNIC card to register with AuraUserve.</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-down" data-aos-duration="2000">
 					<div className="p_10 transition text-center">
-					<img src="/images/booking.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='Smartphone'/>
+					<img src="/images/booking.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='Smartphone'/>
 					<div className="repair text-center"><b>Smartphone</b></div>
 					<div className="maintenance text-center">You will need an Android or iPhone device to receive bookings on AuraUserve.</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-right" data-aos-duration="2000">
 					<div className="p_10 transition ">
-					<img src="/images/warehouse.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='Registered Business Center Address'/>
+					<img src="/images/warehouse.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='Registered Business Center Address'/>
 					<div className="repair text-center"><b>Registered Business Center Address</b></div>
 					<div className="maintenance text-center">You should have a registered business center address such as office, shop, or saloon address.</div>
 				</div>
@@ -66,7 +66,7 @@ function Become() {
 				<br/><div className="row">
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-left" data-aos-duration="2000">
 					<div className="p_10 transition">
-					<img src="/images/sim-card.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='Registered Mobile Number'/>
+					<img src="/images/sim-card.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='Registered Mobile Number'/>
 					<div className="repair text-center"><b>Registered Mobile Number</b></div>
 					<div className="maintenance text-center">You should have registered mobile number where customer can call after booking the job..
 					</div>
@@ -74,7 +74,7 @@ function Become() {
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-up" data-aos-duration="2000">
 					<div className="p_10 transition">
-                    <img src="/images/background-check.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='Background Check'/>
+                    <img src="/images/background-check.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='Background Check'/>
 					<div className="repair text-center"><b>Background Check</b></div>
 					<div className="maintenance text-center">The Background Check process may include drug tests, police reports, credit checks etc.
 					</div>
@@ -82,7 +82,7 @@ function Become() {
 				</div>
 				<div className="col-lg-4 col-md-4 col-sm-4 text-center" data-aos="fade-right" data-aos-duration="2000">
 					<div className="p_10 transition">
-                    <img src="/images/best-customer-experience.png" height="100rem" width="100rem" className="img-responsive images_padding" alt='Experience'/>
+                    <img src="/images/best-customer-experience.png" height="100rem" width="100rem" className="img-responsiv images_padding" alt='Experience'/>
 					<div className="repair text-center"><b>Experience</b> </div>
 					<div className="maintenance text-center">You should have atleast 3 years of Experience forin relative field to register with AuraUserve.  </div>
 					</div>
