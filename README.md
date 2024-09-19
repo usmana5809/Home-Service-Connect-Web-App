@@ -1,5 +1,5 @@
 # Home-Service-Connect-Web-App
-![Cover Image](./assets/images/uiii.png)
+![Cover Image](./images/uiii.png)
 
 ## Overview
 This project is a web application designed to streamline home maintenance. It connects users with verified service providers for various household tasks such as cleaning, repairs, and renovations. The platform provides a user-friendly interface for browsing services as documentation
